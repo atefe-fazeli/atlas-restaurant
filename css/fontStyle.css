@@ -1,0 +1,277 @@
+﻿@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/font-Style/icomoon.eot');
+    src: url('../font/font-Style/icomoon.eot?ksob5e#iefix') format('embedded-opentype'), 
+        url('../font/font-Style/icomoon.ttf?ksob5e') format('truetype'), 
+        url('../font/font-Style/icomoon.woff?ksob5e') format('woff'), 
+        url('../font/font-Style/icomoon.svg?ksob5e#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+.icon {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon--:before {
+    content: "\e901";
+}
+
+.icon--1:before {
+    content: "\e902";
+}
+
+.icon-uniE903:before {
+    content: "\e903";
+}
+
+.icon--2:before {
+    content: "\e904";
+}
+
+.icon-1:before {
+    content: "\e905";
+    color: #95a4c9;
+}
+
+.icon-2:before {
+    content: "\e906";
+}
+
+.icon-3:before {
+    content: "\e907";
+    color: #95a4c9;
+}
+
+.icon-4:before {
+    content: "\e908";
+}
+
+.icon-5:before {
+    content: "\e909";
+}
+
+.icon--3:before {
+    content: "\e90a";
+}
+
+.icon--4:before {
+    content: "\e90b";
+    color: #E9A6A6;
+    font-size: larger;
+}
+
+.icon---:before {
+    content: "\e90c";
+}
+
+.icon--5:before {
+    content: "\e90d";
+}
+
+.icon---1:before {
+    content: "\e90e";
+}
+
+.icon--6:before {
+    content: "\e90f";
+    color: #E9A6A6;
+    font-size: larger;
+}
+
+.icon--7:before {
+    content: "\e910";
+}
+
+.icon-6:before {
+    content: "\e911";
+}
+
+.icon-7:before {
+    content: "\e912";
+}
+
+.icon--20:before {
+    content: "\e913";
+}
+
+.icon--19:before {
+    content: "\e914";
+}
+
+.icon--18:before {
+    content: "\e915";
+}
+
+.icon-10:before {
+    content: "\e916";
+}
+
+.icon--17:before {
+    content: "\e917";
+}
+
+.icon--16:before {
+    content: "\e918";
+    color: #E9A6A6;
+    font-size: larger;
+}
+
+.icon--15:before {
+    content: "\e919";
+}
+
+.icon---2:before {
+    content: "\e91a";
+}
+
+.icon--14:before {
+    content: "\e91b";
+}
+
+.icon-9:before {
+    content: "\e91c";
+}
+
+.icon--13:before {
+    content: "\e91d";
+}
+
+.icon--12:before {
+    content: "\e91e";
+    color: #E9A6A6;
+    font-size: larger;
+}
+
+.icon--11:before {
+    content: "\e91f";
+}
+
+.icon--10:before {
+    content: "\e920";
+}
+
+.icon-8:before {
+    content: "\e921";
+    color: #E9A6A6;
+    font-size: larger;
+}
+
+.icon--9:before {
+    content: "\e922";
+}
+
+.icon--8:before {
+    content: "\e923";
+}
+
+.icon-11:before {
+    content: "\e924";
+}
+
+.icon--21:before {
+    content: "\e925";
+}
+
+.icon--22:before {
+    content: "\e926";
+    color: #E9A6A6;
+    font-size: larger;;
+}
+
+.icon----:before {
+    content: "\e927";
+}
+
+.icon--23:before {
+    content: "\e928";
+}
+
+.icon--24:before {
+    content: "\e929";
+}
+
+.icon---3:before {
+    content: "\e92a";
+}
+
+.icon--25:before {
+    content: "\e92b";
+}
+
+.icon---4:before {
+    content: "\e92c";
+}
+
+.icon-12:before {
+    content: "\e92d";
+    color: #E9A6A6;
+    font-size: larger;
+}
+
+.icon--26:before {
+    content: "\e92e";
+    color: #95a4c9;
+}
+
+.icon--27:before {
+    content: "\e92f";
+}
+
+.icon--28:before {
+    content: "\e930";
+}
+
+.icon--29:before {
+    content: "\e931";
+    color: #95a4c9;
+}
+
+.icon-13:before {
+    content: "\e932";
+}
+
+.icon-14:before {
+    content: "\e933";
+}
+
+.icon---5:before {
+    content: "\e934";
+    color: #E9A6A6;
+    font-size: larger;
+}
+
+.icon-15:before {
+    content: "\e935";
+    color: #95a4c9;
+}
+
+.icon--31:before {
+    content: "\e936";
+    color: #95a4c9;
+}
+
+.icon---21:before {
+    content: "\e937";
+}
+
+.icon--30:before {
+    content: "\e938";
+    color: #95a4c9;
+}
+
+.icon-graduate-cap-1:before {
+    content: "\e900";
+}

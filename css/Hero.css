@@ -1,0 +1,239 @@
+.navContainer{
+    width: calc(100vw - 290px);
+    position: fixed;
+    right: 220px;
+    top: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 30px;
+    align-items: center;
+    background-color: white;
+   height: 40.5px;
+    border-bottom: 2px solid #b0bec5;
+    z-index: 10;
+}
+
+.searchContainer {
+background-color:#eceff1;
+color: #b0bec5;
+border-radius: 25px;
+padding: 5px 17px;
+
+}
+.searchContainer i{
+   
+}
+.searchContainer input{
+border: none;
+background-color:#eceff1;
+font-size: 15px;
+height: 15px;
+margin-right: 5px;
+font-family: 'Yekan';
+width: 200px;
+}
+.searchContainer input:focus{
+   outline: none;
+   
+    }
+.searchContainer input::placeholder{
+    color: #b0bec5;
+    font-family: 'Yekan';
+    }
+.profileContainer{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 18px;
+}
+.adminContainer{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+background-color: #eceff1;
+border-radius: 25px;
+padding-left: 10px;
+width: 170px;
+padding: 0 ;
+height: 42px;
+
+}
+.adminContainer i{
+    margin-left:6px;
+    }
+.adminContainer img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+    right: -6px;
+}
+.heroConatiner{
+    width: calc(100vw - 239px);
+    position: relative;
+    right: 221.5px;
+    top: 66px;
+    
+    /* box-shadow: 0 0 10px #cfd8dc; */
+}
+.heroNavbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+     box-shadow: 10px 0 0 0 #cfd8dc;
+     height: 45px;
+     padding: 0 30px;
+     width: calc(100vw - 295px);
+    position: fixed;
+    /* right: 221.5px; */
+    top: 66px;
+    z-index: 10;
+}
+.title{
+    display: flex;
+    align-items: center;
+}
+.title i{
+   position: relative;
+   top: 2px;
+   color: #4caf50;
+}
+.title p{
+    position: relative;
+    top: -3px;
+    font-weight: 400;
+    font-size: 1.3rem;
+    word-spacing: 3px;
+ }
+ .iconContainer{
+    margin-left: 8px;
+    padding: 0 10px;
+    
+    border-radius: 50%;
+    background-color: #a5d6a777;
+    
+
+ }
+.date{
+    display: flex;
+align-items: center;
+}
+.date i{
+  margin-left: 10px;
+}
+.menu{
+    display: flex;
+    gap: 15px;
+}
+.menu i{
+ font-size: 18px;
+ cursor: pointer;
+ color: #3949ab;
+}
+.hero{
+    padding-top: 30px;
+    position: relative;
+    top: 47px;
+    
+}
+.cardContainer{
+    display: flex; 
+    gap: 10px;
+    padding: 15px;
+    width: 400px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0 0 10px #cfd8dc;
+}
+.cardContainer div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    width: 195px;
+  
+}
+.column-flex {
+    display: flex;
+    flex-direction: column;
+   justify-content: flex-start !important;
+   align-items: flex-start !important;
+   
+}
+.column-flex h1 {
+    margin: 0;
+
+}
+.column-flex p {
+    margin: 0;
+    font-size: 16px !important;
+    position: relative;
+    top: 12px;
+}
+.cardContainer div p{
+    font-size: 13px;
+
+}
+.HeroiconContainer{
+  padding: 0;
+  margin: 0;
+  width: 75px !important;
+  height: 60px;
+  border-radius:15px;
+}
+.HeroiconContainer i{
+    font-size: 25px;
+
+}
+.bg-red{
+background-color: #ef9a9a77;
+color: #ff1744;
+
+}
+.bg-blue{
+    background-color: #81d4fa77;
+color: #0277bd;
+
+}
+.bg-pink{
+    background-color: #f48fb177;
+    color: #ad1457;
+}
+.bg-purple{
+    background-color: #ba68c877;
+    color: #7b1fa2;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+
+}
+
+.tableContainer{
+    width: 430px;
+    margin-right: 8px;
+    border-radius: 15px;
+    background-color:white;
+    box-shadow: 0 0 10px #cfd8dc;
+}
+.table{
+}
+th, td {
+   padding: 10px 20px ;
+  }
+.chartContainer{
+    width: 450px ;
+     height: 300px;
+    margin-right: 8px;
+    border-radius: 15px;
+    background-color:white;
+    box-shadow: 0 0 10px #cfd8dc;
+
+}

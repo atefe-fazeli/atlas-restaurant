@@ -1,0 +1,65 @@
+.sidebar{
+    position: fixed;
+    width: 220px;
+    height: 100vh;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    z-index: 12;
+    background-color: #102027;
+    color: white;
+
+}
+.brandContainer{
+    padding-right: 15px;
+display: flex;
+align-items: center;
+border-bottom:1px solid #eeeeee;
+margin: 0;
+
+}
+.brandContainer img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+.brandContainer p{
+    margin-right: 15px;
+    font-weight: 800;
+}
+.sidebar ul{
+  margin: 2px 0;
+  padding-right: 0;
+}
+.sidebar ul a{
+   
+   
+}
+.sidebar ul a:hover li{
+    font-weight: 500;
+   
+    background-color: #78909c;
+    /* color: white; */
+}
+.sidebar ul a li{
+    border-radius: 25px;
+    padding: 12px;
+  color: white;
+  word-spacing: .15rem;
+
+}
+.sidebar .active {
+    border-radius: 2px;
+    background-color: #546e7a;
+    padding: 8px;
+  
+
+}
+.sidebar ul a li i{
+   margin: 0 10px 0 20px ;
+   color: #e0e0e0;
+   position:relative;
+   top: 3px;
+
+}
